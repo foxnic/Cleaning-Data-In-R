@@ -1,0 +1,30 @@
+Checklist of common data cleansing tasks
+-----------------------------------------
+
+The checklist and R code included here is predominantly from the following course: https://www.linkedin.com/learning/cleaning-bad-data-in-r 
+
+
+Missing Data
+  Missing values
+  Missing Rows
+  Aggregation and Missing Values
+
+Duplicated Data
+  Duplicated rows and values
+  Aggregations
+
+Formatting Data
+  Dates
+  Units
+  Numbers as text
+  Text as numbers
+  Factors?
+  Data Types
+  Typos
+
+Outliers
+Illogical values
+Tidy data
+Common data problems
+Suspicious values
+Suspicious multiples
