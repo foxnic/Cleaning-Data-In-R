@@ -3,6 +3,7 @@ Checklist of common data cleansing tasks
 
 The checklist and R code included here is predominantly from the following course: https://www.linkedin.com/learning/cleaning-bad-data-in-r 
 
+There is also another useful checklist from quartz here: https://github.com/quartz/bad-data-guide
 
 Missing Data
   Missing values
