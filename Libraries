@@ -1,0 +1,9 @@
+Useful R Libraries
+------------------
+
+tidyverse
+readr (to use read_csv)
+magrittr (to use the pipe %>%)
+tidyr (to use gather())
+dplyr (to use mutate())
+lubridate()
